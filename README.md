@@ -1,2 +1,3 @@
 # Aiblitz_leave_disease
-Its a leave disease identifier
+
+In this project, I have developed a leave disease identifier using Multi Layer Perceptron.
